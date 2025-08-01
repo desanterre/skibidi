@@ -1,0 +1,1 @@
+from .toilet import rizz
